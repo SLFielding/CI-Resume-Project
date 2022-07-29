@@ -23,8 +23,8 @@
     background-color: #9B5A99;
 }
 
-.bg-color-name-title {
-    background-color: white;
+.bg-color-three-reasons {
+    background-color: #ffffff;
 }
 /*-------------------------------------Special padding/margins/text styles----------*/
 
@@ -63,6 +63,22 @@ h1, h2, h3, h4 {
     margin-bottom: 40px;
 }
 
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
 /*-------------------------------------Heading----------*/
 
 header {
